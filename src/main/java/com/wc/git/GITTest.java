@@ -10,5 +10,6 @@ public class GITTest {
     public static void main(String[] args) {
         System.out.println("git-1");
         System.out.println("git-master");
+        System.out.println("git-ht-fix");
     }
 }
